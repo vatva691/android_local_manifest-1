@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project path="device/lge/w3ds" name="vm03/android_device_lge_w3ds" remote="github" revision="cm-12.1" />
-    <project path="device/lge/w5" name="vm03/android_device_lge_w5" remote="github" revision="cm-12.1" />
-    <project path="device/lge/msm8610-common" name="vm03/android_device_lge_msm8610-common" remote="github" revision="cm-12.1" />
+    <project path="device/lge/w5" name="LineageOS/android_device_lge_w5" remote="github" revision="cm-14.1" />
+    <project path="device/lge/msm8610-common" name="vm03/android_device_lge_msm8610-common" remote="github" revision="cm-13" />
     <project path="device/lge/g3s-common" name="vm03/android_device_lge_g3s-common" remote="github" revision="cm-12.1" />
     <project path="device/lge/jag3gds" name="vm03/android_device_lge_jag3gds" remote="github" revision="cm-12.1" />
     <project path="device/lge/jagnm" name="vm03/android_device_lge_jagnm" remote="github" revision="cm-12.1" />
-    <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1"  />
-    <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1"  />
+    <project path="hardware/qcom/fm" name="LineageOS/android_hardware_qcom_fm" revision="cm-14.1"  />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" revision="cm-14.1"  />
     <project path="vendor/lge/msm8610-common" name="vm03/proprietary_vendor_lge_msm8610-common" remote="github" revision="cm-12.1" />
-    <project path="vendor/lge/w5" name="vm03/proprietary_vendor_lge_w5" remote="github" revision="cm-12.1" />
+    <project path="vendor/lge/w5" name="TheMuppets/proprietary_vendor_lge/tree/cm-14.1/w5" remote="github" revision="cm-14.1" />
     <project path="vendor/lge/w3ds" name="vm03/proprietary_vendor_lge_w3ds" remote="github" revision="cm-12.1" />
     <project path="vendor/lge/g3s-common" name="vm03/proprietary_vendor_lge_g3s-common" remote="github" revision="cm-12.1" />
     <project path="vendor/lge/jag3gds" name="vm03/proprietary_vendor_lge_jag3gds" remote="github" revision="cm-12.1" />
     <project path="vendor/lge/jagnm" name="vm03/proprietary_vendor_lge_jagnm" remote="github" revision="cm-12.1" />
-    <project path="kernel/lge/msm8226" name="vm03/android_kernel_lge_msm8226" remote="github" revision="cm-12.1-new" />
-    <project path="kernel/lge/msm8610" name="vm03/android_kernel_lge_msm8610" remote="github" revision="cm-12.1" />
+    <project path="kernel/lge/msm8226" name="CM-LG-MSM8226/android_kernel_lge_msm8226" remote="github" revision="cm-14.1" />
+    <project path="kernel/lge/msm8610" name="vm03/android_kernel_lge_msm8610" remote="github" revision="cm-14.1" />
 </manifest>
